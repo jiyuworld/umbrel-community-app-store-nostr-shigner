@@ -7,7 +7,7 @@ services:
       APP_PORT: 28088
 
   web:
-    image: ghcr.io/jiyuworld/nostr-shigner-umbrel:v0.1.0-beta-0.0.1
+    image: ghcr.io/jiyuworld/nostr-shigner-umbrel:0.1.0-beta-0.0.1
     restart: on-failure
     stop_grace_period: 1m
     volumes:
