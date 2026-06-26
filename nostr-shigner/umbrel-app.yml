@@ -1,0 +1,32 @@
+manifestVersion: 1
+id: nostr-shigner
+category: networking
+name: nostr shigner
+version: "0.1.0-beta-0.0.1"
+tagline: A nostr remote signing tool.
+description: >-
+  Nostr Self-Hosted Remote Signer (Nip-46)
+
+
+  ⚠️ Warning: This project was developed using AI Vibe Coding.
+
+  - ✅ Signing daemon
+
+  - ✅ Bunker://, NostConnect://
+
+  - ❌ No saved plaintext nsec (Nip-49)
+developer: AI
+website: https://github.com/jiyuworld/nostr-shigner-umbrel
+dependencies: []
+repo: https://github.com/jiyuworld/nostr-shigner-umbrel
+support: https://github.com/jiyuworld/nostr-shigner-umbrel/issues
+port: 28088
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: Jiyu
+submission: https://github.com/jiyuworld/nostr-shigner-umbrel
+releaseNotes: >-
+  initial beta of nostr shigner
